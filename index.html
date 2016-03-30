@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Making a Game - von der Idee zum fertigen Videospiel</title>
+        
+        <script src="lib/phaser.min.js"></script>
+        <script src="lib/underscore.js"></script>
+        <script src="lib/priority-queue.min.js"></script>
+
+        <script src="js/Load/LoadState.js"></script>
+        
+        <script src="js/Start/StartState.js"></script>
+
+        <script src="js/World/WorldState.js"></script>
+        <script src="js/World/prefabs/City.js"></script>
+        <script src="js/World/prefabs/Ship.js"></script>
+
+        <script src="js/Battle/BattleState.js"></script>
+        <script src="js/Battle/prefabs/Unit.js"></script>
+        <script src="js/Battle/prefabs/UnitEnemy.js"></script>
+        <script src="js/Battle/prefabs/UnitCharacter.js"></script>
+        <script src="js/Battle/prefabs/ActionMessage.js"></script>
+        
+         <script src="js/GameOver/GameOverState.js"></script>
+
+        <script src="js/game.js"></script>
+        
+         <style>
+            body {
+                text-align: center;
+            }
+            #gameDiv{
+                border: 1px solid black;
+                width: 800px;
+                height: 600px;
+                margin: 0 auto;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Making a Game Part 6 - Loading Objects Data from JSON files</h1>
+        <div id="gameDiv"> </div>
+        <p>Cursor: move ship<br />
+        Enter: Fight troops in city</p>
+    </body>
+</html>

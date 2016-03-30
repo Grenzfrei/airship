@@ -1,0 +1,14 @@
+[
+    {"position": {"x": 115, "y": 435}, "troops": 1, "level": 1, "character": "Defender" },
+    {"position": {"x": 322, "y": 82 }, "troops": 2, "level": 1 },
+    {"position": {"x": 730, "y": 223}, "troops": 3, "level": 1, "character": "Gunman" },
+    {"position": {"x": 722, "y": 550}, "troops": 3, "level": 2 },
+    {"position": {"x": 590, "y": 267}, "troops": 3, "level": 2, "character": "Fighter" },
+    {"position": {"x": 600, "y": 420}, "troops": 4, "level": 2 },
+    {"position": {"x": 654, "y": 97 }, "troops": 4, "level": 3, "character": "Defender2" },
+    {"position": {"x": 415, "y": 270}, "troops": 5, "level": 3 },
+    {"position": {"x": 235, "y": 460}, "troops": 5, "level": 4, "character": "Gunman 2" },
+    {"position": {"x": 250, "y": 275}, "troops": 6, "level": 4 }
+]
+
+

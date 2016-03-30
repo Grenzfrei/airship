@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Hero",
+    "class": "sword",
+    "stats": {
+      "max_health": 40,
+      "attack": 8,
+      "defense": 6, 
+      "speed": 8, 
+      "current_level": 1,
+      "exp": 0
+    }
+  },
+  {
+    "name": "Defender",
+    "class": "shield",
+    "stats": {
+      "max_health": 50,
+      "attack": 5,
+      "defense": 10,
+      "speed": 4,
+      "current_level": 1,
+      "exp": 0
+    }
+  },
+  {
+    "name": "Gunman",
+    "class": "gun",
+    "stats": {
+      "max_health": 35,
+      "attack": 10,
+      "defense": 6,
+      "speed": 6,
+      "current_level": 1,
+      "exp": 0
+    }
+  },
+  {
+    "name": "Fighter",
+    "class": "sword",
+    "stats": {
+      "max_health": 40,
+      "attack": 7,
+      "defense": 4,
+      "speed": 12,
+      "current_level": 1,
+      "exp": 0
+    }
+  },
+  {
+    "name": "Defender2",
+    "class": "shield",
+    "stats": {
+      "max_health": 50,
+      "attack": 6,
+      "defense": 8,
+      "speed": 6,
+      "current_level": 1,
+      "exp": 0
+    }
+  },
+  {
+    "name": "Gunman2",
+    "class": "gun",
+    "stats": {
+      "max_health": 40,
+      "attack": 9,
+      "defense": 5,
+      "speed": 7,
+      "current_level": 1,
+      "exp": 0
+    }
+  }
+]
+
+     
+
